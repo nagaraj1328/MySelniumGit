@@ -70,6 +70,8 @@ if(f.exists())
 {
 	
 	System.out.println("File Downloaded successfully");
+	
+	System.out.println("File Downloaded Failed");
 }
 
 }
